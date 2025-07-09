@@ -1,6 +1,7 @@
-🏦 Bank Management System (Java)
+<h1>🏦 Bank Management System (Java)</h1>
+<hr>
 This is a Java-based console application that simulates a basic Bank Management System. It allows users to manage multiple bank accounts with essential banking features. The project demonstrates key OOP concepts such as Encapsulation, Abstraction, and Inheritance.
-
+<br>
 🔑 Features:
 Create new bank accounts with auto-generated account numbers
 
@@ -13,6 +14,7 @@ Delete accounts safely using iterators
 Minimum initial deposit validation
 
 🧠 Concepts Used:
+<hr>
 Encapsulation for data hiding within the Account class
 
 Abstraction with a planned interface/abstract class structure (extendable for savings/current accounts)
